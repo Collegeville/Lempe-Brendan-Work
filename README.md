@@ -4,4 +4,4 @@ This repository will be used to help me catalog my work and allow others to see 
 ## List of resources
 - [Google Docs](PutTheGoogleDriveUrlHere)
 - [Wikipedia Resources](PutUrlHere)
-- [Github Wikiscribe] (https://github.com/Collegeville/WikiScribe)
+- [Github Wikiscribe](https://github.com/Collegeville/WikiScribe)
